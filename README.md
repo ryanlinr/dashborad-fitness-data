@@ -114,13 +114,6 @@ The dashboard, built with **Plotly Dash**, serves as the central UI.
   - **Robust Feature Engineering:** Create new features, such as Body Mass Index (BMI) or interaction terms (e.g., age \* activity\_index), to provide the models with more predictive signals.
   - **Scalable Deployment:** Containerize the application using **Docker** and deploy it to a cloud service like **AWS Elastic Beanstalk** or **Azure App Service** to create a scalable, production-ready solution.
 
------
-
-## 7\. DEMO
-
-<video controls width="720">
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag. You can 
-  <a href="demo.mp4">download the video</a> instead.
+"demo.mp4">download the video</a> instead.
 </video>
 
