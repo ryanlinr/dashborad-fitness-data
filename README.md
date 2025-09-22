@@ -3,9 +3,11 @@
 -----
 
 ## Demo
-<video src="demo.mp4" controls width="720" 
-  Your browser does not support the video tag. Here is a
-  <a href="demo.mp4">link to the video</a> instead.
+
+<video width="720" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  <a href="demo.mp4">Click here to download the demo video</a>
 </video>
 
 -----
