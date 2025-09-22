@@ -5,7 +5,7 @@
 ## Demo
 <video src="demo.mp4" controls width="720" 
   Your browser does not support the video tag. Here is a
-  <a href="assets/demo.mp4">link to the video</a> instead.
+  <a href="demo.mp4">link to the video</a> instead.
 </video>
 
 -----
