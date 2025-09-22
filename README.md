@@ -118,6 +118,9 @@ The dashboard, built with **Plotly Dash**, serves as the central UI.
 
 ## 7\. DEMO
 
-
-file
+<video controls width="720">
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag. You can 
+  <a href="demo.mp4">download the video</a> instead.
+</video>
 
