@@ -4,11 +4,7 @@
 
 ## Demo
 
-<video width="720" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-  <a href="demo.mp4">Click here to download the demo video</a>
-</video>
+[![Watch the demo](assets/demo-thumb.png)](https://youtu.be/wchABB8mKzU)
 
 -----
 
