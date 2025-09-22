@@ -4,10 +4,7 @@
 
 ## Demo
 
-<video src="demo.mp4" controls="true" style="width: 720px;">
-  Your browser does not support the video tag. Here is a
-  <a href="demo.mp4">link to the video</a> instead.
-</video>
+[![Watch the demo]](https://youtu.be/wchABB8mKzU)
 
 -----
 
