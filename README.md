@@ -113,3 +113,11 @@ The dashboard, built with **Plotly Dash**, serves as the central UI.
   - **Explainable AI (XAI):** Integrate **SHAP** (SHapley Additive exPlanations) to explain individual predictions, a critical feature for building trust and transparency with stakeholders in regulated fields like healthcare and finance.
   - **Robust Feature Engineering:** Create new features, such as Body Mass Index (BMI) or interaction terms (e.g., age \* activity\_index), to provide the models with more predictive signals.
   - **Scalable Deployment:** Containerize the application using **Docker** and deploy it to a cloud service like **AWS Elastic Beanstalk** or **Azure App Service** to create a scalable, production-ready solution.
+
+-----
+
+## 7\. DEMO
+
+
+file
+
