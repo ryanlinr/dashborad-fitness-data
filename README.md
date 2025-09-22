@@ -12,6 +12,12 @@ The original README is a good start, but we can make it more professional, impac
 Here is the revised and refined version.
 
 -----
+## Demo
+<video src="demo.mp4" controls width="720" 
+  Your browser does not support the video tag. Here is a
+  <a href="assets/demo.mp4">link to the video</a> instead.
+</video>
+-----
 
 # Predictive Wellness Dashboard
 
